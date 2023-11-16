@@ -2,12 +2,8 @@
 
 Data Analysis and rating prediction of Google play App store apps.
 
-<div style="border-radius:10px; padding: 15px; background-color: #7D3C98; font-size:130%; text-align:left">
 
-<h2 align="left"><font color=#ff6200>About data:</font></h2>
-
-
-**App :** The name of the app
+App :The name of the app
 
 **Category :** The category of the app
 
