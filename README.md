@@ -17,7 +17,7 @@ Following are the features of The dataset :
 **Current Ver :** The current version of the app
 **Android Ver :** The minimum Android version required to run the app
 
-Steps performed on the Dataset :
+Steps performed on the Dataset 
 **1. Setup & Initialization**
 **2. Initial data Analysis**
 **3. PreProcessing**
