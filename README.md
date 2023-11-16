@@ -3,8 +3,8 @@
 Data Analysis and rating prediction of Google play App store apps.
 Following are the features of The dataset :
 
-\n **App** :The name of the app
-\n **Category :** The category of the app
+**App** :The name of the app
+**Category :** The category of the app
 **Rating :** The rating of the app in the Play Store
 **Reviews :** The number of reviews of the app
 **Size :** The size of the app
